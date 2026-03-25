@@ -85,9 +85,9 @@ This project implements a BiLSTM-based hate speech detection model that classifi
 ## GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarsayah0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsayah0&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 My repositories reflect a deliberate range: AI systems, low-level C/C++ engineering, backend services, and simulation environments. I build to understand deeply, then ship to validate in practice. Most work here is production-grade in structure — documented, Makefile-driven, and written to last.
