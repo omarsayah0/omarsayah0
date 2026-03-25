@@ -1,5 +1,5 @@
 <h1 align="center">Omar Alethamat</h1>
-<h3 align="center">AI Engineer &nbsp;·&nbsp; Graduate Software Developer &nbsp;·&nbsp; Amman, Jordan</h3>
+<h3 align="center">AI Engineer &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; Amman, Jordan</h3>
 
 <p align="center">
   <a href="omaralethamat@gmail.com">
