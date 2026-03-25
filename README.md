@@ -109,5 +109,5 @@ The next chapter involves deeper work in autonomous systems, large-scale AI infr
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=omarsayah0&style=flat-square&color=blue" />
 </p>
