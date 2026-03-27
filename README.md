@@ -13,6 +13,10 @@
   <a href="https://github.com/omarsayah0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+<a href="https://omarsayah0.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 </p>
 
 ---
