@@ -23,13 +23,11 @@
 
 ## About Me
 
-I’m an **AI engineer** passionate about building intelligent systems that solve real-world problems. My work focuses on machine learning, computer vision, and embedded software, where I enjoy combining software, hardware, and AI into practical applications.
+I’m an AI engineer focused on building intelligent systems that solve real-world problems. I specialize in machine learning, computer vision, and embedded systems, combining software, hardware, and AI into practical applications.
 
-Currently, I work as an AI Engineer Intern at **Orange Jordan** and contribute as an Embedded Software Engineer in the **Al-RhimSat** CubeSat project, where I help develop software for satellite communication and space-related systems.
+Currently, I work as an AI Engineer Intern at Orange Jordan and contribute to the Al-RhimSat CubeSat project as an Embedded Software Engineer, developing software for satellite communication and space systems. I’m also the founder of Qynerva, an AI-driven healthcare initiative for medical image analysis and intelligent diagnostics.
 
-I am also the founder of **Qynervav**, an AI-driven healthcare initiative focused on building accessible tools for medical image analysis and intelligent diagnostics.
-
-Throughout my journey, I’ve built multiple AI and computer vision projects, exploring areas such as medical imaging, intelligent automation, and real-time systems. I enjoy turning complex ideas into working systems and continuously pushing myself to learn through hands-on engineering.
+I enjoy turning complex ideas into real, working systems and continuously learning through hands-on engineering.
 
 ---
 
