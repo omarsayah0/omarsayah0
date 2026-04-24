@@ -17,6 +17,10 @@
 <a href="https://omarsayah0.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
+  &nbsp;
+<a href="https://omaralethamat.com/Qynerva/" target="_blank">
+  <img src="https://img.shields.io/badge/Qynerva-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 </p>
 
 ---
