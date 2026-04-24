@@ -19,7 +19,7 @@
 </a>
   &nbsp;
 <a href="https://omaralethamat.com/Qynerva/" target="_blank">
-  <img src="https://img.shields.io/badge/Qynerva-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qynerva-000000?style=for-the-badge&logo=medrxiv&logoColor=white" />
 </a>
 </p>
 
