@@ -30,6 +30,7 @@
 AI & Robotics Engineer focused on Computer Vision, Robotics, and autonomous intelligent systems, with hands-on experience developing real-world AI and embedded applications. Passionate about building practical technologies that combine software, hardware, sensors, and robotics into functional systems,
 including space and advanced engineering applications.
 Experienced in designing end-to-end solutions through experimentation, system integration, and applied AI engineering.
+
 ---
 
 ## Technical Skills
