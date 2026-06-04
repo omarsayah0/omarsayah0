@@ -139,17 +139,6 @@ An end-to-end satellite imaging and remote sensing analysis platform.
 
 ---
 
-## GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsayah0&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsayah0&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
-My repositories reflect a deliberate range: AI systems, low-level C/C++ engineering, backend services, and simulation environments. I build to understand deeply, then ship to validate in practice. Most work here is production-grade in structure — documented, Makefile-driven, and written to last.
-
----
-
 ## What I'm Building Toward
 
 I'm focused on developing intelligent autonomous systems that bridge Computer Vision, Robotics, Embedded Systems, and AI-driven perception. My goal is to build technologies that operate reliably beyond simulations and research environments, delivering measurable value in real-world conditions.
