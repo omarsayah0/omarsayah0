@@ -61,21 +61,56 @@ Experienced in designing end-to-end solutions through experimentation, system in
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-> A cross-section of what I build — spanning AI, systems engineering, and real-world applications.
+> AI, Robotics, Computer Vision, Autonomous Systems, and Systems Engineering.
 
-**[Unix shell: ](https://github.com/omarsayah0/42_Minishell)**
-A fully featured Unix shell implemented in C, handling process control, pipes, redirections, and environment management with precise system-level execution (42 project)
+### 🎓 [EduVision — Smart School System](YOUR_REPO_LINK)
+A multimodal AI-powered educational intelligence platform for real-time student monitoring and academic performance analysis.
 
-**[STT web application: ](https://github.com/omarsayah0/Speech-to-Text-Web-Application)**
-Speech-to-Text web application built with FastAPI that allows users to upload audio files and convert them into text using AI transcription models. Includes authentication with JWT, role-based access control, an admin dashboard, and Dockerized deployment.
+- Developed a multimodal framework integrating Camera, Smartwatch, and Academic Performance modules.
+- Built a YOLOv8-based computer vision system for classroom engagement and behaviour analysis (77% mAP@50).
+- Implemented MediaPipe Face Mesh for focus and distraction detection through head-pose and facial movement tracking.
+- Developed smartwatch-based stress detection and academic prediction models achieving 91% and 89% accuracy.
+- Designed live dashboards, historical analytics, and AI-generated reporting for actionable educational insights.
+- Achieved an overall framework accuracy of 82.33% through end-to-end system validation.
 
-**[CV Pong game: ](https://github.com/omarsayah0/Hand-Tracking-Pong-Game)**
-A computer vision Pong game controlled by hand movements using Python, OpenCV, and MediaPipe, allowing players to move paddles in real time with a webcam.
+---
 
-**[Hate speech detection: ](https://github.com/omarsayah0/Hate-Speech-Detection-Using-Lstm-NLp)**
-This project implements a BiLSTM-based hate speech detection model that classifies text into Hate Speech, Offensive Language, or Neither, featuring NLP preprocessing, model evaluation (classification report, confusion matrix, ROC curve), and an interactive Streamlit web app for real-time comment moderation.
+### 🚁 [SolarGuard — Autonomous UAV–UGV Solar Farm Inspection System](YOUR_REPO_LINK)
+A distributed autonomous robotics system for intelligent solar farm inspection and maintenance.
+
+- Designed a multi-robot architecture using ROS2 and Gazebo simulation.
+- Developed UAV–UGV cooperative workflows including task allocation, inter-robot communication, and autonomous mission execution.
+- Integrated Nav2, computer vision, and AI-driven fault analysis pipelines.
+- Built toward fully autonomous inspection and maintenance reporting.
+
+---
+
+### 🛰️ [OrbitCV — Satellite Image Processing Tool](YOUR_REPO_LINK)
+An end-to-end satellite imaging and remote sensing analysis platform.
+
+- Built a complete pipeline covering SDR satellite acquisition, image reconstruction, computer vision, and deep learning.
+- Developed a C++/OpenCV application implementing preprocessing, enhancement, feature matching, and geometric alignment.
+- Designed a multi-task EfficientNet-B4 + UNet model for cloud segmentation and multi-label classification.
+- Processed real Meteor-M N2-4 satellite data using a custom V-dipole antenna and SDR workflow.
+- Achieved 75.4% classification accuracy, 0.606 Dice Score, 0.438 IoU, and 0.766 F1-score.
+
+---
+
+### 🌐 [ft_irc — IRC Server in C++](https://github.com/omarsayah0/ft_irc)
+
+- Built a non-blocking IRC server in C++98 using poll().
+- Implemented authentication, channel management, messaging, and core IRC protocol functionality.
+- Designed an event-driven networking architecture supporting multiple concurrent clients.
+
+---
+
+### ⚙️ [MiniShell — Unix Shell in C](https://github.com/omarsayah0/42_Minishell)
+
+- Developed a Unix-like shell implementing pipes, redirections, signals, and environment variable expansion.
+- Built a custom lexer and parser for shell command interpretation.
+- Managed process execution using fork/execve and file descriptor control.
 
 ---
 
