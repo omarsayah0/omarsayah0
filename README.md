@@ -142,8 +142,7 @@ An end-to-end satellite imaging and remote sensing analysis platform.
 ## GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsayah0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=omarsayah0&show_icons=true&theme=github_dark&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsayah0&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
