@@ -153,11 +153,11 @@ My repositories reflect a deliberate range: AI systems, low-level C/C++ engineer
 
 ## What I'm Building Toward
 
-I'm focused on advancing the boundary between AI research and deployable engineering — building systems that don't just perform in benchmarks but hold up under real operational conditions.
+I'm focused on developing intelligent autonomous systems that bridge Computer Vision, Robotics, Embedded Systems, and AI-driven perception. My goal is to build technologies that operate reliably beyond simulations and research environments, delivering measurable value in real-world conditions.
 
-Actively pursuing international opportunities — particularly in the **UK** — where I can contribute to high-impact AI and engineering teams, collaborate across disciplines, and work on problems that have measurable consequences in the world.
+I'm particularly interested in autonomous robotics, UAV–UGV cooperation, intelligent inspection systems, satellite and remote sensing applications, and embedded AI solutions that combine perception, decision-making, and deployment on physical platforms.
 
-The next chapter involves deeper work in autonomous systems, large-scale AI infrastructure, and applied research at the intersection of intelligence and physical systems.
+As I continue to grow as an engineer, I'm seeking opportunities to contribute to ambitious teams working on robotics, autonomous systems, computer vision, and next-generation intelligent technologies with real-world impact.
 
 ---
 
