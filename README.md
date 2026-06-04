@@ -35,23 +35,50 @@ Experienced in designing end-to-end solutions through experimentation, system in
 
 ## Technical Skills
 
-**Computer Vision & Imaging**
-OpenCV, YOLOv8, MediaPipe, Image Processing, Image Analysis, Object Detection, Feature Extraction, Face Mesh, Satellite Image Processing, Remote Sensing
+### Computer Vision
 
-**Machine Learning & AI**
-PyTorch, TensorFlow, Deep Learning, Multimodal AI, Classification, Segmentation, Predictive Modeling, Model Evaluation
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-4CAF50?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square)
 
-**Robotics & Autonomous Systems**
-ROS 2, Gazebo, Nav2, UAV–UGV Systems, Autonomous Navigation, Multi-Robot Systems, Robot Simulation, Sensor Integration
+### AI / Machine Learning
 
-**Programming Languages**
-Python, C++, C
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-34495E?style=flat-square)
 
-**Embedded Systems**
-RTOS, Raspberry Pi, Arduino, ESP32, Microcontrollers
+### Robotics & Autonomous Systems
 
-**Tools & Platforms**
-Linux, Git, Docker, Azure
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-5C5543?style=flat-square)
+![Nav2](https://img.shields.io/badge/Nav2-009688?style=flat-square)
+![UAV](https://img.shields.io/badge/UAV-607D8B?style=flat-square)
+![UGV](https://img.shields.io/badge/UGV-455A64?style=flat-square)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-795548?style=flat-square)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=cmake&logoColor=white)
 
 ---
 
