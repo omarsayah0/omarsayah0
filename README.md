@@ -27,9 +27,13 @@
 
 ## About Me
 
-AI & Robotics Engineer focused on Computer Vision, Robotics, and autonomous intelligent systems, with hands-on experience developing real-world AI and embedded applications. Passionate about building practical technologies that combine software, hardware, sensors, and robotics into functional systems,
-including space and advanced engineering applications.
-Experienced in designing end-to-end solutions through experimentation, system integration, and applied AI engineering.
+Computer Vision, Robotics, and Embedded Systems Engineer with practical experience in
+autonomous systems, robotic software development, embedded programming, and AI-powered
+perception. Experienced in designing and developing computer vision pipelines, robotic
+applications, and embedded solutions using ROS 2, Gazebo, OpenCV, PyTorch, YOLO,
+microcontrollers, and modern AI frameworks. Worked on projects involving UAVs, UGVs, satellite
+technologies, intelligent monitoring systems, and autonomous inspection platforms. Passionate
+about building intelligent systems that combine perception, autonomy, and real-world deployment.
 
 ---
 
