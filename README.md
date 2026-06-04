@@ -65,7 +65,7 @@ Experienced in designing end-to-end solutions through experimentation, system in
 
 > AI, Robotics, Computer Vision, Autonomous Systems, and Systems Engineering.
 
-### 🎓 [EduVision — Smart School System](YOUR_REPO_LINK)
+### 🎓 [EduVision — Smart School System](https://github.com/omarsayah0/AI_EduVision)
 A multimodal AI-powered educational intelligence platform for real-time student monitoring and academic performance analysis.
 
 - Developed a multimodal framework integrating Camera, Smartwatch, and Academic Performance modules.
@@ -77,7 +77,7 @@ A multimodal AI-powered educational intelligence platform for real-time student 
 
 ---
 
-### 🚁 [SolarGuard — Autonomous UAV–UGV Solar Farm Inspection System](YOUR_REPO_LINK)
+### 🚁 [SolarGuard — Autonomous UAV–UGV Solar Farm Inspection System](https://github.com/omarsayah0/AI_SolarGuard)
 A distributed autonomous robotics system for intelligent solar farm inspection and maintenance.
 
 - Designed a multi-robot architecture using ROS2 and Gazebo simulation.
@@ -87,7 +87,7 @@ A distributed autonomous robotics system for intelligent solar farm inspection a
 
 ---
 
-### 🛰️ [OrbitCV — Satellite Image Processing Tool](YOUR_REPO_LINK)
+### 🛰️ [OrbitCV — Satellite Image Processing Tool](https://github.com/omarsayah0/AI_OrbitCV)
 An end-to-end satellite imaging and remote sensing analysis platform.
 
 - Built a complete pipeline covering SDR satellite acquisition, image reconstruction, computer vision, and deep learning.
